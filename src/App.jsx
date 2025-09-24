@@ -6,7 +6,7 @@ function Projects() {
     {
       name: "Clone-1",
       description: "Clone of allen.in",
-      link: "https://clone-1-9gr1.onrender.com"
+      link: "https://clone-1.aroopsingh.com"
     },
     {
       name: "Todo App",
