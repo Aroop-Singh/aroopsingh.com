@@ -57,7 +57,7 @@ function Projects() {
             <h3>{q.name}</h3>
             <p>{q.description}</p>
             <a href={q.link} target="_blank" rel="noopener noreferrer">
-              Visit
+              Click here
             </a>
           </div>
         ))}
