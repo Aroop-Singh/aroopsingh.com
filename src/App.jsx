@@ -66,7 +66,9 @@ function Projects() {
       <div style={{backgroundColor: "white", color: 'black', borderRadius: "15px", padding: "0.5%", marginTop: "2%"}}>
         <h2 style={{ color: 'black' }}>Some upcoming shits in my head</h2>
         <h3 style={{ color: 'black' }}>#1 pehle toh bc todo ka scene set krna h</h3>
+        <p style={{marginTop: "-20px", color: "grey"}}>set smbh h bs todos ka mapping kr se save functionality add krte pelna h, pta nhi saving me jwt se he set kr deta hy baki ka pta nhi. </p>
         <h3 style={{ color: 'black' }}>#2 fir ye slider meme template</h3>
+        <p style={{marginTop: "-20px", color: "grey"}}>ishka toh bhai bohot options h bohot kaam bhi h, pehle google login integrate krna h template creation ke baadh, fir shared links ka bhi scene. Pta nhi ye pr kaam ka project </p>
 
       </div>
       
