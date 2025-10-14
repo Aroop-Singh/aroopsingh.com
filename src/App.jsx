@@ -62,6 +62,16 @@ function Projects() {
           </div>
         ))}
       </div>
+
+      <div style={{backgroundColor: "white", color: 'black', borderRadius: "15px", padding: "0.5%", marginTop: "2%"}}>
+        <h2 style={{ color: 'black' }}>Some upcoming shits in my head</h2>
+        <h3 style={{ color: 'black' }}>#1 pehle toh bc todo ka scene set krna h</h3>
+        <h3 style={{ color: 'black' }}>#2 fir ye slider meme template</h3>
+
+      </div>
+      
+
+
     </div>
   );
 }
