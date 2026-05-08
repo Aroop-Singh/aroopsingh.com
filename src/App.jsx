@@ -11,7 +11,7 @@ function Projects() {
     {
       name: "Todo App",
       description: "A simple to-do list app with add/edit/delete.",
-      link: "https://clone-1-9gr1.onrender.com"
+      link: "https://todo-app-express-frontend.onrender.com/"
     },
     {
       name: "Linkdin",
